@@ -1,4 +1,4 @@
-# Ingress 打卡点系统
+﻿# Ingress 打卡点系统
 
 ## 项目简介
 Ingress 是一个基于 Vue.js 和 Node.js 的打卡点管理系统，支持多种用户角色（管理员、普通用户、访客）进行打卡和占领操作。系统的特色在于需要三种不同类型的用户都在同一打卡点打卡后，才能实现占领。
@@ -152,12 +152,6 @@ npm run build
 4. 推送到分支
 5. 创建 Pull Request
 
-## 许可证
-[MIT License](LICENSE)
-
-## 联系方式
-- 项目维护者：[Your Name]
-- 邮箱：[your.email@example.com]
 
 ## 致谢
 感谢所有贡献者对项目的支持！
